@@ -91,3 +91,16 @@
         margin: 0px;
         padding: 0px;
     }
+
+    .liststyle{
+      list-style: none;
+      text-align: center;
+    }
+
+    .country_link{
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+      
+      
+    }
